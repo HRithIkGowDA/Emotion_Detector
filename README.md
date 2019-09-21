@@ -8,7 +8,7 @@ Tools used
 * Sass
 
 
-Technical Details
+Technical_Details
 * Extractor Deep Neural Network - State of the art MobileNet
 * Classifier Deep Neural Network - DenseNet
 * HyperParameters can be tuned via User Interface.
