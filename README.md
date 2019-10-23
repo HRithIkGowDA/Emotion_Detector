@@ -1,5 +1,5 @@
 # Emotion Recognizer
-Recognize your emotion using 2 deep neural networks and webcam live in Google Chrome.
+Recognizes your emotion using 2 deep neural networks and webcam live in Google Chrome.
 
 Tools used
 * TensorFlow.js
